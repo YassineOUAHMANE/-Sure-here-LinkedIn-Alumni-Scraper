@@ -20,8 +20,11 @@ You also need to download the appropriate WebDriver for your browser and place i
 ### Usage 
 Clone this repository to your local machine:
 git clone https://github.com/your_username/linkedin-alumni-scraper.git
+
 Navigate to the project directory:
 cd linkedin-alumni-scraper
+
 Run the scraper script:
 python scraper.py
+
 Sit back and watch the magic as the scraper collects data from LinkedIn profiles!
