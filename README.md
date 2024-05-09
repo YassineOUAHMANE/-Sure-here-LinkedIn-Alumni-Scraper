@@ -2,6 +2,7 @@
 ## Overview 🔍
 This project aims to collect information about alumni from the National Institute of Posts and Telecommunications (INPT) and display their career achievements to inspire current students and fellow alumni. The project utilizes web scraping techniques to extract data from LinkedIn profiles.
 I created also html file to access to their profiles easily don't hesitate to check it out 😄 !
+Check out the vedio link to see how it looks like : https://www.linkedin.com/feed/update/urn:li:activity:7178219354377879552/
 ## Getting started🚀
 ### Prerequisites 📋
 To run the scraper, you need to have Python installed on your system along with the following libraries:
