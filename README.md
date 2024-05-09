@@ -5,11 +5,14 @@ This project aims to collect information about alumni from the National Institut
 ## Getting started🚀
 ### Prerequisites 📋
 To run the scraper, you need to have Python installed on your system along with the following libraries:
+
 BeautifulSoup 🥣
 requests 📧
 pandas 🐼
 selenium 🏎️
+
 You can install these libraries using pip:
+
 pip install beautifulsoup4
 pip install requests
 pip install pandas
